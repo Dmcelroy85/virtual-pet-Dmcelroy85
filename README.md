@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/skv1eIuC)
+<!-- [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/skv1eIuC)
 # Required Tasks
 
 ## IMPORTANT: Please refer to the course in Instructure Canvas for project full requirements
@@ -14,7 +14,6 @@
 - [ ] asks for user input.
 - [ ] writes output to the console.
 
-
 ## Stretch Tasks
 - [ ] Give the pet the ability to take care of some of its own needs.
 
@@ -22,4 +21,4 @@ Pets are not robots - they usually have some sort of self-determination! When ti
 
 - [ ] Create a visual representation of your pet.
 
-Rather than using numbers to convey your pet’s status, you could have some sort of visual representation of the pet. I.e., instead of printing hunger: 50, you could use smileys or ASCII art to show hunger when hunger >= 50.
+Rather than using numbers to convey your pet’s status, you could have some sort of visual representation of the pet. I.e., instead of printing hunger: 50, you could use smileys or ASCII art to show hunger when hunger >= 50. -->
